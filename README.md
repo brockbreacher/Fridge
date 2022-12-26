@@ -1,2 +1,2 @@
-# Fridge
- Made For Fun 
+# fridge
+https://fridge.brbr.xyz/
